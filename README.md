@@ -162,3 +162,13 @@ Caso tenha dúvidas sobre o desafio, entre em contato com nossa equipe de tecnol
 Boa sorte! 🚀
 
 _Equipe Realmate_
+
+## 🎁 Extra: Frontend Flutter (Bônus)
+
+Como bônus opcional, desenvolvi um pequeno aplicativo Flutter para visualizar as conversas e mensagens processadas pela API.
+
+O objetivo é demonstrar a integração front-end/mobile com o backend desenvolvido no desafio.
+
+🔗 Repositório do app Flutter: [github.com/Victor-Drt/realmate_challenge_front](https://github.com/Victor-Drt/realmate_challenge_front)
+
+> O app consome os endpoints da API e apresenta as conversas de forma simples e visual.
